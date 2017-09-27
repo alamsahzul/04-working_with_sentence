@@ -1,2 +1,3 @@
-# sentences-manipulation
-challange #5
+# Working With Sentence
+
+The logic is if the sentence
